@@ -1,6 +1,9 @@
 # Pong
 A WebGL published version of Pong game, made in Understanding Game Engine (Summer 2020) taught by Thomas Corbett at CMU.
 
+## Play the game
+https://haleyparkdesign.github.io/pong-web/
+
 ## How to play
 Move left paddle: use "w" and "s" key. <br>
 Move right paddle: use the arrow keys.
